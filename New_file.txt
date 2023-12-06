@@ -1,1 +1,2 @@
   Hello from new file
+second line in file
